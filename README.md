@@ -25,11 +25,12 @@
 ## 快速使用
 
 ```bash
-# 1. 安装 Typst（https://github.com/typst/typst/releases）
-# 2. 在 VS Code 中安装 Tinymist 插件
-# 3. 修改 refs.bib 添加参考文献
-# 4. 修改 chapters/ 下各章节内容
-# 5. 编译
+# 1. 下载release中的zip文件并解压到本地文件夹
+# 2. 安装 Typst（https://github.com/typst/typst/releases）
+# 3. 在 VS Code 中安装 Tinymist 插件
+# 4. 修改 refs.bib 添加参考文献
+# 5. 修改 chapters/ 下各章节内容
+# 6. 编译
 typst compile main.typ
 ```
 
