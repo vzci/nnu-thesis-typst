@@ -35,4 +35,4 @@ typst compile main.typ
 ```
 
 详细使用说明见模板内的 `README.md`。
-问题和建议可通过电子邮件与我沟通:m@vz.ci
+问题和建议可通过电子邮件与我沟通:g@zgz.uk
